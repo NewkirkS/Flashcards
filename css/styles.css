@@ -1,3 +1,20 @@
 p {
   display: none;
 }
+
+.row > div {
+  height: 18em;
+  text-align: center;
+  border: 2px black solid;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+.selected {
+  background-color: #a4d491;
+}
+
+.hoveron {
+  background-color: white;
+  height: 22em;
+}
